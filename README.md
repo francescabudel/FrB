@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently attending the MA in Digital Humanities and Digital Knowledge at University of Bologna. 
 - 🔭 I’m currently working on two projects: 
+
     ➵ **Digital storytelling and Information visualization project** 👁 
+    
     ➵ **Open Access and Digital Ethics project** 📑
 - 💬 Ask me about data feminism, literature and videogames. 
