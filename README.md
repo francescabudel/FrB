@@ -3,6 +3,9 @@
 
 - 🌱 I’m currently attending the MA in Digital Humanities and Digital Knowledge at University of Bologna. 
 - 🔭 My latest projects:
-    ➵ **[Project Gaze(https://ahsanv101.github.io/ProjectGaze/)]** 👁 
-    ➵ **[Bars Behind Bars(https://prisoner-s-dilemma.github.io/BarsBehindBars/)]** 📑
+  
+    ➵ **[Project Gaze](https://ahsanv101.github.io/ProjectGaze/)** 👁
+
+    ➵ **[Bars Behind Bars](https://prisoner-s-dilemma.github.io/BarsBehindBars/)** 📑
+  
 - 💬 Ask me about data feminism, literature and videogames. 
