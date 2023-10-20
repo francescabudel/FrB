@@ -4,7 +4,10 @@
 
 
 - 🌱 I’m currently attending the MA in Digital Humanities and Digital Knowledge at University of Bologna.
-- 💬 Ask me about data feminism, literature and videogames. 
+- 💬 Ask me about data feminism, literature and videogames.
+- ☄️ Browse through my [Personal Portfolio](https://www.linkedin.com/in/francesca-budel-4a601a199/)
+<hr> 
+
 - 🔭 My latest projects:
   
     ➵ **[Project Gaze](https://ahsanv101.github.io/ProjectGaze/)** 👁
