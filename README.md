@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently attending the MA in Digital Humanities and Digital Knowledge at University of Bologna.
 - 💬 Ask me about data feminism, literature and videogames.
-- ☄️ Browse through my [Personal Portfolio]
 <hr> 
 
 - 🔭 My latest projects:
