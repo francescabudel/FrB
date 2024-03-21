@@ -7,10 +7,7 @@
 - 🌱 MA in Digital Humanities and Digital Knowledge at University of Bologna.
 - 💬 Ask me about data feminism, literature and videogames.
 
-<hr>
-
 ## Explore [my portfolio](francescabudel.github.io/FrB/) 🌠
-<hr> 
 
 ## My latest projects 🔭
   
