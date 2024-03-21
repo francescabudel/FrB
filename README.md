@@ -7,13 +7,15 @@
 - 🌱 MA in Digital Humanities and Digital Knowledge at University of Bologna.
 - 💬 Ask me about data feminism, literature and videogames.
 
+<hr>
+
 ## Explore [my portfolio](francescabudel.github.io/FrB/) 🌠
 <hr> 
 
-- 🔭 My latest projects:
+ My latest projects 🔭
   
-    ➵ **[Project Gaze](https://ahsanv101.github.io/ProjectGaze/)** 👁
+  ➵ **[Project Gaze](https://ahsanv101.github.io/ProjectGaze/)** 👁
 
-    ➵ **[Bars Behind Bars](https://prisoner-s-dilemma.github.io/BarsBehindBars/)** 📑
+  ➵ **[Bars Behind Bars](https://prisoner-s-dilemma.github.io/BarsBehindBars/)** 📑
   
-    ➵ **[Dissecting Hate](https://github.com/francescabudel/Dissecting-Hate)** 👩🏾👩🏼👩🏻
+  ➵ **[Dissecting Hate](https://github.com/francescabudel/Dissecting-Hate)** 👩🏾👩🏼👩🏻
