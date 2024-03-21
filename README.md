@@ -6,6 +6,8 @@
 - ✒️ I'm also a writer and a journalist. 
 - 🌱 MA in Digital Humanities and Digital Knowledge at University of Bologna.
 - 💬 Ask me about data feminism, literature and videogames.
+
+## Explore [my portfolio](francescabudel.github.io/FrB/) 🌠
 <hr> 
 
 - 🔭 My latest projects:
@@ -15,8 +17,3 @@
     ➵ **[Bars Behind Bars](https://prisoner-s-dilemma.github.io/BarsBehindBars/)** 📑
   
     ➵ **[Dissecting Hate](https://github.com/francescabudel/Dissecting-Hate)** 👩🏾👩🏼👩🏻
-
-- 🔭 My portfolio:
-  
-    ➵ **coming soon** 🌠
-  
