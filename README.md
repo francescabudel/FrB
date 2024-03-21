@@ -2,8 +2,9 @@
 ## I tell meaningful and creative stories through data ✨
 
 
-
-- 🌱 I’m currently attending the MA in Digital Humanities and Digital Knowledge at University of Bologna.
+- 🌸 I define myself as a data analyst, digital storyteller and data viz enthusiast!
+- ✒️ I'm also a writer and a journalist. 
+- 🌱 MA in Digital Humanities and Digital Knowledge at University of Bologna.
 - 💬 Ask me about data feminism, literature and videogames.
 <hr> 
 
@@ -13,5 +14,8 @@
 
     ➵ **[Bars Behind Bars](https://prisoner-s-dilemma.github.io/BarsBehindBars/)** 📑
   
-- 👱‍♀️ If you loved <i>Barbie</i>, discover my thesis' project! (still a WIP for now!)
+    ➵ **[Dissecting Hate](https://github.com/francescabudel/Dissecting-Hate)** 👩🏾👩🏼👩🏻
 
+- 🔭 My portfolio:
+    ➵ **coming soon** 🌠
+  
