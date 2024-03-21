@@ -12,7 +12,7 @@
 ## Explore [my portfolio](francescabudel.github.io/FrB/) 🌠
 <hr> 
 
- My latest projects 🔭
+## My latest projects 🔭
   
   ➵ **[Project Gaze](https://ahsanv101.github.io/ProjectGaze/)** 👁
 
