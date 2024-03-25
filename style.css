@@ -1444,14 +1444,14 @@ hr.invis1 {
 }
 
 
-.gallery-single {
+.card {
 	position: relative;
 	overflow: hidden;
 	-webkit-box-shadow: 0 0 10px #ccc;
 	box-shadow: 0 0 10px #ccc;
 }
 
-.gallery-list .img-overlay {
+.column .img-overlay {
     position: absolute;
     top: 10px;
     left: 10px;
@@ -1467,7 +1467,7 @@ hr.invis1 {
     transform: translateY(10px);
 }
 
-.gallery-list .gallery-single:hover .img-overlay {
+.column .card:hover .img-overlay {
     opacity: 1;
     -webkit-transform: translateY(0);
     transform: translateY(0);
