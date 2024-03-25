@@ -188,57 +188,127 @@
 		<div class="container">
 			<div class="section-title text-left">
                 <h3>Portfolio</h3>
-                <p>Here you can browse through my projects!.</p>
+                <p>Here you can browse through my projects!</p>
             </div><!-- end title -->
 			
-			<div class="gallery-menu row">
-				<div class="col-md-12">
-					<div class="button-group filter-button-group text-left">
-						<button class="active" data-filter="*">All</button>
-						<button data-filter=".gal_a">Arts&Culture</button>
-						<button data-filter=".gal_b">Social Sciences</button>
-					</div>
-				</div>
-			</div>
+			<section class="sect">
+        
+			        <button class="btn btn-2">
+			            <a class="fixed-bottom" href="index.html"><i class="bi bi-arrow-left"></i></a>
+			        </button>
 			
-			<div class="gallery-list row">
-				<div class="col-md-4 col-sm-6 gallery-grid gal_a gal_b">
-					<div class="gallery-single fix">
-						<img src="uploads/gallery_img-01.png" class="img-fluid" alt="Image">
-						<div class="img-overlay">
-							<a href="uploads/gallery_img-01.png" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 gallery-grid gal_c gal_b">
-					<div class="gallery-single fix">
-						<img src="uploads/gallery_img-02.png" class="img-fluid" alt="Image">
-						<div class="img-overlay">
-							<a href="uploads/gallery_img-02.png" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
-					<div class="gallery-single fix">
-						<img src="uploads/gallery_img-03.png" class="img-fluid" alt="Image">
-						<div class="img-overlay">
-							<a href="uploads/gallery_img-03.png" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 gallery-grid gal_b gal_a">
-					<div class="gallery-single fix">
-						<img src="uploads/gallery_img-04.png" class="img-fluid" alt="Image">
-						<div class="img-overlay">
-							<a href="uploads/gallery_img-04.png" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a>
-						</div>
-					</div>
-				</div>
-				</div>
-				</div>
+			        <!-- DHDK Master Degree -->
+			        <div class="content row justify-content-md-center">
+			            <div class="col-md-3"></div>
+			            <!-- Control buttons -->
+			            <div id="myBtnContainer">
+			                <button class="btn btn-filters btn-outline-primary active" onclick="filterSelection('all')"> Show all</button>
+			                <button class="btn btn-filters btn-outline-primary" onclick="filterSelection('ch')">#cultural heritage</button>
+			                <button class="btn btn-filters btn-outline-primary" onclick="filterSelection('opendata')">#open-data</button>
+			                <button class="btn btn-filters btn-outline-primary" onclick="filterSelection('ml')">#machine-learning</button>
+			                <button class="btn btn-filters btn-outline-primary" onclick="filterSelection('html')">#html</button>
+			                <button class="btn btn-filters btn-outline-primary" onclick="filterSelection('css')">#css</button>
+			                <button class="btn btn-filters btn-outline-primary" onclick="filterSelection('js')">#js</button>
+			                <button class="btn btn-filters btn-outline-primary" onclick="filterSelection('infviz')">#information visualization</button>
+			                <button class="btn btn-filters btn-outline-primary" onclick="filterSelection('ux')">#ux</button>
+			                <button class="btn btn-filters btn-outline-primary" onclick="filterSelection('network')">#network-analysis</button>
+			                <button class="btn btn-filters btn-outline-primary" onclick="filterSelection('digitalstory')">#digital-storytelling</button>
+			                <button class="btn btn-filters btn-outline-primary" onclick="filterSelection('spatial')">#spatial-analysis</button>
+			                <button class="btn btn-filters btn-outline-primary" onclick="filterSelection('intermediades')">#interaction-media-design</button>
+			                <button class="btn btn-filters btn-outline-primary" onclick="filterSelection('ai')">#ai</button>
+			                <button class="btn btn-filters btn-outline-primary" onclick="filterSelection('sed')">#semantic digital edition</button>
+			                <button class="btn btn-filters btn-outline-primary" onclick="filterSelection('webscrap')">#webscraping</button>
+			
+			            </div>
+			        </div>
+			        <!-- <h4>Academic Year 2021-2022</h4> -->
+			        <div class="row row-cols-1 row-cols-md-4 g-4 projects-group">
+			            <!-- Project Item -->
+			                <div class="card h-100">
+			                    <div class="card-body">
+			                        <h5 class="card-title">Through the Gaze</h5>
+			                        <p class="card-text">This project proposes to explore the impact of the "male gaze"
+			                            on
+			                            Western cinematic industry by analysing the 10 highest-grossing U.S.A. films for each
+			                            decade
+			                            from 1940s to 2010s. I personally contributed in the creation of the graphs, the audience analysis, the sexism detection
+							and the digital storytelling phases.</p>
+			                        </p><p class="card-subtext">
+			                            Professor(s): M. Daquino<br>
+			                            <a href="https://ahsanv101.github.io/ProjectGaze/" target="_blank"><b>Website</b></a><br>
+			                            Issue date: april 2023
+			                        </p>
+			                        <span class="badge">#information visualization</span>
+			                        <span class="badge">#digital-storytelling</span>
+			                        <span class="badge">#webscraping</span>
+			                        <span class="badge">#machine-learning</span>
+						<span class="badge">#data-analysis</span>
+			                    </div>
+			                </div>
+			            </div><!-- End Project Item -->
+			
+			            <!-- Project Item -->
+			                <div class="card h-100">
+			                    <div class="card-body">
+			                        <h5 class="card-title">Bars Behind Bars</h5>
+			                        <p class="card-text">The project aims at analysing the impact of different factors in the context of suicide in prisons across Europe. <br>
+							Here, I contributed to the project ideation, the data retrieval, the data cleaning, the datasets' ethical analysis and Legal analysis
+							and the visualizations.  </p>
+			                        <p class="card-subtext">
+			                            Professor(s): M. Palmirani<br>
+			                            <a href="https://prisoner-s-dilemma.github.io/BarsBehindBars/" target="_blank"><b>Website</b></a><br>
+			                            Issue date: April 2023
+			                        </p>
+			                        <span class="badge">#lod</span>
+			                        <span class="badge">#information visualization</span>
+			                        <span class="badge">#open data</span>
+			
+			                    </div>
+			                </div>
+			            </div><!-- End Project Item -->
+			            <!-- Project  Item -->
+			            <div class="col filterDiv network spatial sed lod show">
+			                <div class="card h-100">
+			                    <div class="card-body">
+			                        <h5 class="card-title">InFabula</h5>
+			                        <p class="card-text">The project aims at exploring the anthology of Fiabe Italiane by Italo Calvino through 
+							archetypes and symbols.<br> We implemented a series of network analysis and a spatial analysis, 
+							while also encoding the entirety of the digital edition in XML. 
+			                        </p>
+			                        <p class="card-subtext">
+			                            Professor(s): T. Mancinelli<br>
+			                            <a href="https://fiabecalvino.github.io/InFabula/index.html" target="_blank"><b>Website</b></a><br>
+			                            Issue date: July 2022
+			                        </p>
+			                        <span class="badge">#lod</span>
+			                        <span class="badge">#semantic digital edition</span>
+			                        <span class="badge">#spatial analysis</span>
+			                        <span class="badge">#network analysis</span>
+			                    </div>
+			                </div>
+			            </div><!-- End Project Item -->
+			
+			            <!-- Project Item -->
+			            <div class="col filterDiv ux css html js show">
+			                <div class="card h-100">
+			                    <div class="card-body">
+			                        <h5 class="card-title">TyPantheon</h5>
+			                        <p class="card-text">Prototype for an online mythology-focused magazine. It is meta-data focused and offers the possibility of 
+							"travelling through space and time" while learning about gods and monsters. 
+			                        </p>
+			                        <p class="card-subtext">
+			                            Professor(s): F. Vitali<br>
+			                            <a href="https://typantheon.github.io/magazine/" target="_blank"><b>Website</b></a><br>
+			                            Issue date: September 2022
+			                        </p>
+			                        <span class="badge">#ux design</span>
+			                        <span class="badge">#css</span>
+			                        <span class="badge">#html</span>
+			                        <span class="badge">#javascript</span>
+			                    </div>
+			                </div>
+			            </div><!-- End Project Item -->
+			    </section>
 			</div>
 			</div>
 		</div>
