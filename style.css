@@ -1448,7 +1448,7 @@ hr.invis1 {
 }
 
 .gallery-single {
-	position: relative;
+	position: fixed;
 	overflow: hidden;
 	-webkit-box-shadow: 0 0 10px #ccc;
 	box-shadow: 0 0 10px #ccc;
