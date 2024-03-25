@@ -1461,13 +1461,13 @@ hr.invis1 {
 .card {
 	position: relative;
 	overflow: hidden;
-	padding: 16px;
+	padding: 10px;
 	-webkit-box-shadow: 0 0 10px #ccc;
 	box-shadow: 0 0 10px #ccc;
 }
 
 .column .img-overlay {
-    position: absolute;
+    position: relative;
     top: 10px;
     left: 10px;
     right: 10px;
