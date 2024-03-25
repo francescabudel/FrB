@@ -1447,6 +1447,7 @@ hr.invis1 {
 .card {
 	position: relative;
 	overflow: hidden;
+	padding: 16px;
 	-webkit-box-shadow: 0 0 10px #ccc;
 	box-shadow: 0 0 10px #ccc;
 }
@@ -1473,7 +1474,7 @@ hr.invis1 {
     transform: translateY(0);
 }
 
-.gallery-list .gallery-single:hover .img-overlay .hoverbutton{
+.column .card:hover .img-overlay .hoverbutton{
 	opacity: 1;
 	top: 50%;
 }
