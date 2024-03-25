@@ -9,7 +9,7 @@
 
 <hr>
 
-## Explore [my portfolio](francescabudel.github.io/FrB/) 🌠
+## Explore [my portfolio](francescabudel.github.io/francescabudel/) 🌠
 
 ## My latest projects 🔭
   
